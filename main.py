@@ -7,7 +7,7 @@ elif 1901 <= a <= 1927:
 elif 1928 <= a <=1945:
   print('Hey! you belong to the Silent Generation!')
 elif 1946 <= a <= 1964:
-  print('Hey! you belong to the Baby Boomers!')
+  print('Hey! you belong to the Baby Boomers')
 elif 1965 <= a <= 1980:
   print('Hey! you belong to Generation X!')
 elif 1981 <= a <= 1996:
